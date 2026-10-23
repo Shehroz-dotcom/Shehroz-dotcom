@@ -2,15 +2,26 @@
 
 <!--
 **Shehroz-dotcom/Shehroz-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm a Full Stack MERN Developer
 
-Here are some ideas to get you started:
+💻 Software Engineering student passionate about building modern, responsive web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🛠️ Tech Stack
+- ⚛️ React.js, JavaScript
+- 🟢 Node.js, Express.js
+- 🍃 MongoDB
+- 🎨 Tailwind CSS, Redux Toolkit
+- 🔗 REST APIs, Git & GitHub
+
+### 🚀 What I Do
+- 🌐 Build full-stack web applications
+- 🤖 Explore AI-powered applications
+- 🔐 Implement authentication and REST APIs
+- 📚 Continuously learn and improve my skills
+
+### 📫 Let's Connect
+🤝 Open to internship opportunities, collaborations, and exciting projects!
+
+⭐ *Keep learning. Keep building.*
+
 -->
