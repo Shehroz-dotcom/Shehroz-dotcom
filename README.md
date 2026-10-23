@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Shehroz-dotcom/Shehroz-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 👋 Hi, I'm a Full Stack MERN Developer
 
@@ -24,4 +24,4 @@
 
 ⭐ *Keep learning. Keep building.*
 
--->
+
